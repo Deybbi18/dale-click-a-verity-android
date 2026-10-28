@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+      IDENTIFICADORES DE ANUNCIOS DE PRUEBA (los publica Google para desarrolladores).
+      Con estos se ven anuncios de mentira y NO se gana dinero. Es lo correcto mientras pruebas:
+      probar con tus anuncios reales puede hacer que Google suspenda tu cuenta.
+
+      Antes de publicar, crea tu cuenta en https://admob.google.com, registra la app y cambia
+      estos tres valores por los tuyos (README.md, sección "Ganar dinero con AdMob").
+    -->
+    <string name="admob_app_id" translatable="false">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="admob_banner_id" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="admob_rewarded_id" translatable="false">ca-app-pub-3940256099942544/5224354917</string>
+</resources>
